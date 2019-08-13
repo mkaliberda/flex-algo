@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test task for upwork customer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkaliberda/test-js.git"
+  },
+  "author": "mkaliberda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkaliberda/test-js/issues"
+  },
+  "homepage": "https://github.com/mkaliberda/test-js#readme"
+}
