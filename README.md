@@ -10,5 +10,5 @@ yarn start
 or
 
 ```
-node start
+node ./index.js
 ```
