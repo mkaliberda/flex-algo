@@ -61,7 +61,7 @@ const checkerNumber = (currentNumber) => {
     }
 }
 
-for (let i = 1; i <= END_NBR; i++) {
+for (let i = START_NBR; i <= END_NBR; i++) {
     const result = checkerNumber(i);
     console.log(result.color, result.text);
 }

@@ -1,19 +1,19 @@
 {
-  "name": "test",
+  "name": "flex-algo",
   "version": "1.0.0",
-  "description": "test task for upwork customer",
+  "description": "Simple some flexible number algorithm",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkaliberda/test-js.git"
+    "url": "git+https://github.com/mkaliberda/flex-algo.git"
   },
   "author": "mkaliberda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mkaliberda/test-js/issues"
+    "url": "https://github.com/mkaliberda/flex-algo/issues"
   },
-  "homepage": "https://github.com/mkaliberda/test-js#readme"
+  "homepage": "https://github.com/mkaliberda/flex-algo#readme"
 }
